@@ -1,0 +1,2 @@
+# studiotale
+static website
